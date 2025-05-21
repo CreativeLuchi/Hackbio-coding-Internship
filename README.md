@@ -1,6 +1,6 @@
 #Stage 0 Task
 
-📌Task Instructions Using either R or Python (We uswd Python!), use any data structure of your choice to organize the following information: Names, Slack username, Email, Hobby, Countries, Discipline and Preferred programming language.
+📌Task Instructions Using either R or Python (We used Python!), use any data structure of your choice to organize the following information: Names, Slack username, Email, Hobby, Countries, Discipline and Preferred programming language.
 
 No functions, loops, conditionals or any complex concepts.
 Final print statement should print the organized output in a logical and understandable way.
